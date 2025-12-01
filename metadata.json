@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Doppler Radar Speed Trap",
+  "description": "A physics simulation of a highway speed enforcement radar demonstrating the Doppler effect with adjustable RF parameters and real-time signal analysis.",
+  "requestFramePermissions": []
+}
